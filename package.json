@@ -1,0 +1,43 @@
+{
+  "name": "slurpdir",
+  "version": "0.1.0-pre.0",
+  "description": "require-dir for all file types",
+  "main": "lib/slurp.js",
+  "scripts": {
+    "test": "make release",
+    "prepublish": "make release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seangarner/slurpdir.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seangarner/slurpdir/issues"
+  },
+  "keywords": [
+    "require",
+    "require-dir",
+    "async",
+    "fs",
+    "recursive",
+    "recurse",
+    "file",
+    "directory"
+  ],
+  "author": "Sean Garner <seanlgarner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "glob": "^7.0.0",
+    "mout": "^0.11.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jshint": "^2.9.1",
+    "mocha": "^2.4.5",
+    "nodemon": "^1.8.1",
+    "nsp": "^2.2.0",
+    "sinon": "^1.17.3",
+    "sinon-chai": "^2.8.0"
+  }
+}
