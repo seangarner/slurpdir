@@ -1,5 +1,5 @@
 # slurpdir changelog
 
-## 0.1.0
+## 1.0.0
 
-  - initial prototype; don't use
+  - initial release.  api stable.
