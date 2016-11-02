@@ -27,7 +27,6 @@
   "author": "Sean Garner <seanlgarner@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.1.2",
     "glob": "^7.0.0",
     "mout": "^1.0.0"
   },
