@@ -27,14 +27,13 @@
   "author": "Sean Garner <seanlgarner@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.5.2",
     "glob": "^7.0.0",
-    "mout": "^0.11.1"
+    "mout": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "jshint": "^2.9.1",
-    "mocha": "^2.4.5",
+    "mocha": "^3.1.2",
     "nodemon": "^1.8.1",
     "nsp": "^2.2.0",
     "sinon": "^1.17.3",
